@@ -1,9 +1,12 @@
 {
-	"name": "fictional-lamp",
-	"authors": [
-		"barrrrre"
-	],
-	"description": "ld game",
-	"copyright": "Copyright © 2016, Jakob Kellendonk",
-	"license": "proprietary"
+    "name": "fictional-lamp",
+    "authors": [
+	"barrrrre"
+    ],
+    "dependencies": {
+	"derelict-glfw3": "~>3.1.0",
+    },
+    "description": "ld game",
+    "copyright": "Copyright © 2016, Jakob Kellendonk",
+    "license": "proprietary"
 }
