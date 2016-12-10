@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="dub.json">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" PreferredExecutionTarget="debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="dub.json">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" PreferredExecutionTarget="release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="source/app.d">
     <Files>
-      <File FileName="source/app.d" Line="3" Column="13" />
-      <File FileName="dub.json" Line="8" Column="7" />
+      <File FileName="source/app.d" Line="3" Column="29" />
+      <File FileName="dub.json" Line="8" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
